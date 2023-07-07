@@ -1,0 +1,46 @@
+Date	Num	Vendor	Amount
+7/7/2023	ACH 79180	Recreational Facilities, Ltd.	-3677.45
+7/7/2023	ACH 79181	The Environmental Services Company	-5651.32
+7/7/2023	ACH 79182	The Retail People	-208.25
+7/7/2023	ACH 79183	Semiconductors, Incorporated	-6110.01
+7/7/2023	ACH 79184	Art, Inc.	-981.68
+7/7/2023	ACH 79185	Translation, Ltd.	-1316.03
+7/7/2023	ACH 79186	The Civil Engineering Company	-2586.76
+7/7/2023	ACH 79187	Financial Services Corp.	-815
+7/7/2023	ACH 79188	Automotive, Ltd.	-241.36
+7/7/2023	ACH 79189	Utilities, Ltd.	-295.9
+7/7/2023	ACH 79190	Retail Company, Inc.	-172.8
+7/7/2023	ACH 79191	Electrical Manufacturing Co.	-6080
+7/7/2023	ACH 79192	Writing, Inc.	-1350
+7/7/2023	ACH 79193	The Marketing Co.	-537.56
+7/7/2023	ACH 79194	Pharmaceuticals, Inc.	-508.5
+7/7/2023	ACH 79195	Construction, Inc.	-310.82
+7/7/2023	ACH 79196	Electrical Manufacturing, Ltd.	-10958.61
+7/7/2023	ACH 79197	The E-Learning Company	-7231.96
+7/7/2023	ACH 79198	International Development Co.	-342.19
+7/7/2023	ACH 79199	Machinery, Inc.	-240.72
+7/7/2023	ACH 79200	Leisure, Inc.	-11566.62
+7/7/2023	ACH 79201	Furniture, Inc.	-2734.84
+7/7/2023	ACH 79202	Private Equity Co.	-1626.51
+7/7/2023	ACH 79203	Music Co.	-11.16
+7/7/2023	ACH 79204	Apparel, Ltd.	-5496.65
+7/7/2023	ACH 79205	Mechanical Engineering, Incorporated	-5589.08
+7/7/2023	ACH 79206	The Music Company	-296.7
+7/7/2023	ACH 79207	Journalism, Ltd.	-3586.11
+7/7/2023	ACH 79208	Maritime, LLC	-3866.05
+7/7/2023	ACH 79209	Architecture Co.	-90.67
+7/7/2023	ACH 79210	The Writing Company	-764
+7/7/2023	ACH 79211	Business Equipment, LLC	-566.67
+7/7/2023	ACH 79212	Fishery Corp.	-76.89
+7/7/2023	ACH 79213	Automotive, LLC	-2879.17
+7/7/2023	ACH 79214	Concrete Inc.	-1162.48
+7/7/2023	ACH 79215	Marketing Co.	-822.25
+7/7/2023	ACH 79216	Travel, Inc.	-2300.76
+7/7/2023	ACH 79217	Maritime Corp.	-363.58
+7/7/2023	ACH 79218	The Logistics Company	-515.29
+7/7/2023	ACH 79219	Network Security, Inc.	-5203.06
+7/7/2023	ACH 79220	Consumer Services Corp.	-2530
+7/7/2023	ACH 79221	Writing, Ltd.	-417.22
+7/7/2023	ACH 79222	Entertainment, LLC	-4808.08
+7/7/2023	ACH 79223	Wholesale, Inc.	-792
+7/7/2023	ACH 79224	Packaging, Inc.	-2540.96

@@ -1,0 +1,136 @@
+Consumer Name	R&T Number	Account Number	ID	Amount	Account Type
+Recreational Facilities, Ltd.	310955487	2031821189			check
+Luxury Goods, Inc.	500722392	137512959			check
+The Retail Company	2790262335	2554430638			check
+Mining, Incorporated	176530088	741971961			check
+Mechanical Engineering Co.	4103096310	83034042			check
+Services Corp.	2382493439	1054528208			check
+Sporting Goods, Inc.	2144055969	3904007958			check
+Translation, Incorporated	212830251	3124896699			check
+The Environmental Services Company	4182632438	3004154276			check
+The Marketing Company	2485275988	3801609099			check
+The Retail People	2449019541	436694721			check
+Electronic Manufacturing, Ltd.	3014923780	4003507336			check
+The Procurement Company	1325898734	3872120376			check
+Semiconductors, Incorporated	14961045	1436004461			check
+Art, Inc.	2944456368	3688181332			check
+Education Co.	4112700615	2611959358			check
+Translation, LLC.	1631218845	3572658659			check
+Health Care, Inc.	2839940525	3712669727			check
+Translation, Ltd.	3680153503	1343551979			check
+The Freight Delivery Company	1883009021	3213571365			check
+Legal Services, Incorporated	3149028316	1420398019			check
+The Semiconductors Company	464442228	2373411036			check
+Entertainment Co.	2731987577	393045750			check
+Business Supplies Co.	2382648415	2666208602			check
+Music, Incorporated	3446304446	2360277880			check
+Automotive, Inc.	2112999032	272408209			check
+Shipbuilding, Incorporated	3775678493	558175981			check
+Publishing, Ltd.	3806198809	1617797150			check
+Warehousing, Ltd.	1781860979	3016195540			check
+Metals, Inc.	2801137123	2461126953			check
+Concrete Corp.	4104164606	366967077			check
+Sports Corp.	1360033475	20870965			check
+Computer Security, Incorporated	2925568401	69183034			check
+Security Corp.	4057895691	808633868			check
+Film Co.	1366450484	2600495466			check
+The Civil Engineering Company	1229359763	324916814			check
+Fashion, LLC	2639735289	2450034003			check
+Financial Services Corp.	763148375	140479212			check
+Information Services, Inc.	2917634531	1210530190			check
+Automotive, Ltd.	210525312	16759287			check
+Photography, Incorporated	2257099642	2604471020			check
+The Design Company	4171713016	580281213			check
+International Development, Ltd.	2357142737	3003481335			check
+Mortgages, LLC	2729336803	2348355299			check
+Sporting Goods Co.	3580542096	3444197396			check
+Business Supplies, Incorporated	2519099680	116690406			check
+Utilities, Ltd.	3242994293	1996125871			check
+Information Technology, Inc.	880201076	3486491686			check
+Retail Company, Inc.	2036202619	1474007264			check
+Consumer Services, Incorporated	605521515	3697626391			check
+Electrical Manufacturing Co.	618350705	4077278630			check
+Sales, Ltd.	1074746199	2963161853			check
+Writing, Inc.	81885654	2561724543			check
+The Marketing Co.	346188324	33397106			check
+Sports Co.	2913002967	3227440283			check
+Web Design, Incorporated	3804276256	3722393345			check
+Pharmaceuticals, Inc.	2333969227	69757649			check
+Apparel, Incorporated	3581109575	2497719242			check
+Construction, Inc.	2006022960	836519933			check
+Apparel, LLC	565758370	1379218763			check
+Medical Equipment, LLC	2668431059	208818924			check
+Electrical Manufacturing, Ltd.	429711879	3308899468			check
+The E-Learning Company	2310680434	1307284672			check
+The Crafts Company	3142922993	2378736006			check
+International Development Co.	3728234503	1394228078			check
+Machinery, Inc.	4133047703	373426211			check
+Luxury Goods, LLC.	2728181132	1972563977			check
+Leisure, Inc.	4142813388	3483217622			check
+Mining Co.	80685341	3389804554			check
+The Packaging Company	3940908403	2398411593			check
+Furniture, Inc.	2120060621	3710964388			check
+International Development Inc.	1536941678	4095777811			check
+Private Equity, Incorporated	4122963031	4171622259			check
+Fishery, LLC	1754338634	3801467976			check
+Private Equity Co.	818076189	3800003320			check
+Music Co.	1495135611	1124860384			check
+Package Delivery, LLC	2960363018	385577583			check
+Apparel, Ltd.	1867949728	96967323			check
+Mechanical Engineering, Incorporated	1460068635	830083468			check
+The Consumer Goods Company	1392114259	1630788536			check
+Furniture, LLC	2836336122	173669854			check
+Automotive Company	3510930357	4157146433			check
+Glass Co.	68068024	1483537475			check
+The Building Materials Company	4162830679	950620402			check
+Cosmetics Corp.	646249943	3107650609			check
+The Music Company	3047657116	20139407			check
+Package Delivery, Incorporated	3839306582	2896643958			check
+Journalism, Ltd.	3388888333	2005889919			check
+Maritime, LLC	2079866911	371948062			check
+Entertainment Ltd.	4127691917	711747494			check
+Web Design, LLC	1517874982	4139500722			check
+The Writing Company	1474209707	215140833			check
+Architecture Co.	3668617313	1029039965			check
+Sporting Goods Corp.	2566855417	469052605			check
+The Financial Services Company	2412664418	62676905			check
+Information Technology, Co.	594838014	3348578662			check
+Business Equipment, LLC	2365109252	1899410716			check
+Facilities Services, Ltd.	489135058	1943182452			check
+Fishery Corp.	2671965432	637456081			check
+International Development, LLC	2003098405	3163555227			check
+Packaging, Incorporated	1509312921	1424778803			check
+Utilities Corp.	375246269	2750411450			check
+Education, Inc.	232070716	1079803309			check
+Automotive, LLC	3926585846	2507567687			check
+Concrete Inc.	721420652	768174293			check
+Marketing Co.	3200563674	3779881770			check
+The Public Relations Company	3516116782	3802383816			check
+Travel, Inc.	1151192878	1658726060			check
+Graphic Design, Incorporated	3830220615	3677893369			check
+Maritime Corp.	1257769453	2335097633			check
+Computer Software Co.	2253203869	3376462422			check
+The Logistics Company	1327636042	1918481715			check
+Fishery, Inc.	552350336	2069508091			check
+Recruiting, Incorporated	3405984447	287877			check
+Civil Engineering, Incorporated	2121711815	923908059			check
+Network Security, Inc.	875168519	1138824504			check
+Machinery Corp.	2433746661	733676172			check
+Consumer Services Corp.	770944056	367915941			check
+Art, Incorporated	210188614	586642404			check
+Computer Hardware, Incorporated	2289188187	650883299			check
+Biotechnology Corp.	3644889646	1812099697			check
+Aviation, Incorporated	3386319663	1927382358			check
+Motion Pictures, Ltd.	3928472484	3989922551			check
+Private Equity Inc.	3411231340	2165379277			check
+Writing, Ltd.	1202934000	2630726627			check
+Design, Incorporated	1688300143	3895190484			check
+Package Delivery, Inc.	1215715190	1351843474			check
+Performing Arts Corp.	1968633276	3212384365			check
+Mechanical Engineering, Ltd.	2861561936	3731755311			check
+Entertainment, LLC	394442630	3375375009			check
+Travel, Incorporated	2051102503	3023015166			check
+Warehousing, Inc.	2155792150	2731037380			check
+Electrical Manufacturing Corp.	4110729078	3514937808			check
+Wholesale, Inc.	628044895	4033818367			check
+Packaging, Inc.	2922547863	1760764208			check
